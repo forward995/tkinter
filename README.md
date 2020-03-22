@@ -1,2 +1,2 @@
-# tkinter and openxl
+# tkinter and openpyxl
 
